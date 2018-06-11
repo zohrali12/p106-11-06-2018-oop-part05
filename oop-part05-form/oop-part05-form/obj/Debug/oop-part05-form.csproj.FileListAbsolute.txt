@@ -1,0 +1,10 @@
+C:\Users\Zohrali\Desktop\CA\C#\11.06.2018\oop-part05-form\oop-part05-form\bin\Debug\oop-part05-form.exe.config
+C:\Users\Zohrali\Desktop\CA\C#\11.06.2018\oop-part05-form\oop-part05-form\bin\Debug\oop-part05-form.exe
+C:\Users\Zohrali\Desktop\CA\C#\11.06.2018\oop-part05-form\oop-part05-form\bin\Debug\oop-part05-form.pdb
+C:\Users\Zohrali\Desktop\CA\C#\11.06.2018\oop-part05-form\oop-part05-form\obj\Debug\oop-part05-form.csprojAssemblyReference.cache
+C:\Users\Zohrali\Desktop\CA\C#\11.06.2018\oop-part05-form\oop-part05-form\obj\Debug\oop_part05_form.App.resources
+C:\Users\Zohrali\Desktop\CA\C#\11.06.2018\oop-part05-form\oop-part05-form\obj\Debug\oop_part05_form.Properties.Resources.resources
+C:\Users\Zohrali\Desktop\CA\C#\11.06.2018\oop-part05-form\oop-part05-form\obj\Debug\oop-part05-form.csproj.GenerateResource.cache
+C:\Users\Zohrali\Desktop\CA\C#\11.06.2018\oop-part05-form\oop-part05-form\obj\Debug\oop-part05-form.csproj.CoreCompileInputs.cache
+C:\Users\Zohrali\Desktop\CA\C#\11.06.2018\oop-part05-form\oop-part05-form\obj\Debug\oop-part05-form.exe
+C:\Users\Zohrali\Desktop\CA\C#\11.06.2018\oop-part05-form\oop-part05-form\obj\Debug\oop-part05-form.pdb
